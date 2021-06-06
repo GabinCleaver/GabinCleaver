@@ -35,7 +35,7 @@
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 
 -----
-### ⚙️ &nbsp;GitHub Analytics
+### <p align="center">⚙️ &nbsp;GitHub Analytics</p>
 
 <p align="center">
 <a href="https://github.com/GabinCleaver">
