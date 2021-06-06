@@ -30,6 +30,6 @@
 </p>
 
 -----
-Credits: [Aditya Vikram Singh](https://github.com/GabinCleaver)
+Credits: [Gabin HelloWorld](https://github.com/GabinCleaver)
 
 Last Edited on: 06/06/2021
