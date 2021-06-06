@@ -69,6 +69,6 @@
   <img src="https://profile-counter.glitch.me/GabinCleaver/count.svg" />
 </p>
 
-Credits: [Gabin HelloWorld](https://github.com/GabinCleaver)
+Credits: [MrGabin](https://github.com/GabinCleaver)
 
 Dernier Edit: 06/06/2021
