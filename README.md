@@ -65,7 +65,7 @@
 -----
 
 <p align="center"> 
-  Compteur de Visiteurs<br>
+  Compteur de Visiteurs<br/><br/>
   <img src="https://profile-counter.glitch.me/GabinCleaver/count.svg" />
 </p>
 
