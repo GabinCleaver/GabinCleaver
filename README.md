@@ -9,8 +9,6 @@
   ✍️ &nbsp;J'aimerai beaucoup devenir Développeur, mais je ne sais pas encore quelle spécialitée.\
   ✉️ &nbsp;Vous pouvez m'envoyez un mail a l'adresse: bhangabin@gmail.com.
 
-<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=GabinCleaver&layout=compact">
-
 -----
 ### 🛠 &nbsp;Tech Stack
 
