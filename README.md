@@ -1,7 +1,7 @@
 <h2>💻 Hello World! Je suis MrGabin !</h2>
 
 -----
-### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;About Me
+### <p align="center"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;About Me</p>
 
   💡 &nbsp;J'aime beaucoup l'informatique et tout ce qui est trafiquer du code, et le rendre meilleur.\
   🎓 &nbsp;Je suis un développeur confirmé en Python, et s'organise pour apprendre l'HTML/CSS/JS et le PHP.\
@@ -11,7 +11,7 @@
 <p align="center"><img src="https://discord.c99.nl/widget/theme-4/844585997764263937.png"></p>
 
 -----
-### 🛠 &nbsp;Tech Stack
+### <p align="center">🛠 &nbsp;Tech Stack</p>
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
@@ -28,7 +28,7 @@
 
 -----
 
-### 📈 Et pour le futur
+### <p align="center">📈 Et pour le futur</p>
 
 ![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=PHP&logoColor=FFA518)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
@@ -55,7 +55,7 @@
 
 <img height="130em" src="https://github-profile-trophy.vercel.app/?username=GabinCleaver&theme=react&no-bg=true&locale=fr" />
 
-### 🤝🏻 &nbsp;Contacte Moi
+### <p align="center">🤝🏻 &nbsp;Contacte Moi</p>
 
 <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
