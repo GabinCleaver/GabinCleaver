@@ -3,13 +3,12 @@
 -----
 ### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;About Me
 
+  <p align="left"> <img src="https://komarev.com/ghpvc/?username=GabinCleaver" alt="GabinCleaver" /> </p>
   💡 &nbsp;J'aime beaucoup l'informatique et tout ce qui est trafiquer du code, et le rendre meilleur.\
   🎓 &nbsp;Je suis un développeur confirmé en Python, et s'organise pour apprendre l'HTML/CSS/JS et le PHP.\
   🌱 &nbsp;Je code tous les jours et je m'améliore chaque jour qui passe.\
   ✍️ &nbsp;J'aimerai beaucoup devenir Développeur, mais je ne sais pas encore quelle spécialitée.\
   ✉️ &nbsp;Vous pouvez m'envoyez un mail a l'adresse: bhangabin@gmail.com.
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=GabinCleaver" alt="GabinCleaver" /> </p>
 
 -----
 ### 🛠 &nbsp;Tech Stack
