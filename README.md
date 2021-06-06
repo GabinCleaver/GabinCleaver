@@ -9,7 +9,6 @@
   ✍️ &nbsp;J'aimerai beaucoup devenir Développeur, mais je ne sais pas encore quelle spécialitée.\
   ✉️ &nbsp;Vous pouvez m'envoyez un mail a l'adresse: bhangabin@gmail.com.
   
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 -----
 ### 🛠 &nbsp;Tech Stack
 
@@ -22,7 +21,7 @@
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
 ![Illustrator](https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=adobe-illustrator)&nbsp;
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
-
+<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 -----
 ### ⚙️ &nbsp;GitHub Analytics
 
