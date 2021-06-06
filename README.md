@@ -22,9 +22,9 @@
 
 ### ⚙️ &nbsp;GitHub Analytics
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=gabincleaver&show_icons=true&theme=radical&locale=fr" />
+<p align="center">
+<a href="https://github.com/AVS1508">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabincleaver&show_icons=true&theme=radical&locale=fr"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabincleaver&theme=radical&layout=compact&locale=fr"/>
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabincleaver&theme=radical&layout=compact&locale=fr" />
-</a>
+</p>
