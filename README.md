@@ -9,7 +9,7 @@
   ✍️ &nbsp;J'aimerai beaucoup devenir Développeur, mais je ne sais pas encore quelle spécialitée.\
   ✉️ &nbsp;Vous pouvez m'envoyez un mail a l'adresse: bhangabin@gmail.com.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=MarikIshtar007" alt="MarikIshtar007" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=GabinCleaver" alt="GabinCleaver" /> </p>
 
 -----
 ### 🛠 &nbsp;Tech Stack
