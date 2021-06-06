@@ -25,7 +25,7 @@
 <p align="center">
 <a href="https://github.com/GabinCleaver">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=GabinCleaver&show_icons=true&theme=algolia&include_all_commits=true&locale=fr"/>
-  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=GabinCleaver&locale=fr&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=GabinCleaver&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
 
