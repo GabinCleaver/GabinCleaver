@@ -9,6 +9,8 @@
   ✍️ &nbsp;J'aimerai beaucoup devenir Développeur, mais je ne sais pas encore quelle spécialitée.\
   ✉️ &nbsp;Vous pouvez m'envoyez un mail a l'adresse: bhangabin@gmail.com.
 
+<p align="center"><img src="https://discord.c99.nl/widget/theme-4/844585997764263937.png"></p>
+
 -----
 ### 🛠 &nbsp;Tech Stack
 
