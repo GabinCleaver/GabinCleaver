@@ -2,4 +2,4 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabincleaver&show_icons=true&theme=radical&locale=fr)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabincleaver&layout=compact&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabincleaver&layout=compact&locale=fr)](https://github.com/anuraghazra/github-readme-stats)
