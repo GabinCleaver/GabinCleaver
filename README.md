@@ -23,9 +23,16 @@
 ![Illustrator](https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=adobe-illustrator)&nbsp;
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
 
+-----
+
 ### 📈 Et pour le futur
 
-
+![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=PHP&logoColor=FFA518)&nbsp;
+![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
+![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
+![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 
 -----
 ### ⚙️ &nbsp;GitHub Analytics
@@ -34,9 +41,12 @@
 <a href="https://github.com/GabinCleaver">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=GabinCleaver&show_icons=true&theme=react&include_all_commits=true&locale=fr"/>
   <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=GabinCleaver&layout=compact&langs_count=8&theme=react&locale=fr"/>
-  <img height="110em" src="https://github-profile-trophy.vercel.app/?username=GabinCleaver&theme=react&no-bg=true&locale=fr" />
 </a>
 </p>
+
+### &nbsp;GitHub Trophées
+
+<img height="110em" src="https://github-profile-trophy.vercel.app/?username=GabinCleaver&theme=react&no-bg=true&locale=fr" />
 
 
 
