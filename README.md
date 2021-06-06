@@ -21,6 +21,7 @@
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
 ![Illustrator](https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=adobe-illustrator)&nbsp;
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
+![Premiere Pro](https://img.shields.io/badge/-Premiere-05122A?style=flat&logo=adobe-premiere)&nbsp;
 -----
 ### ⚙️ &nbsp;GitHub Analytics
 
