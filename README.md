@@ -3,7 +3,6 @@
 -----
 ### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;About Me
 
-  <p align="right"> <img src="https://komarev.com/ghpvc/?username=GabinCleaver" alt="GabinCleaver" /> </p>
   💡 &nbsp;J'aime beaucoup l'informatique et tout ce qui est trafiquer du code, et le rendre meilleur.\
   🎓 &nbsp;Je suis un développeur confirmé en Python, et s'organise pour apprendre l'HTML/CSS/JS et le PHP.\
   🌱 &nbsp;Je code tous les jours et je m'améliore chaque jour qui passe.\
@@ -65,7 +64,7 @@
 
 <p align="center"> 
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/Shwetang550/count.svg" />
+  <img src="https://profile-counter.glitch.me/GabinCleaver/count.svg" />
 </p>
 
 Credits: [Gabin HelloWorld](https://github.com/GabinCleaver)
