@@ -1,4 +1,4 @@
-<h2>Hello World! Je suis MrGabin !</h2>
+<h2>💻 Hello World! Je suis MrGabin !</h2>
 
 -----
 ### 👨🏻‍💻 &nbsp;About Me
