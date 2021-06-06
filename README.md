@@ -9,6 +9,7 @@
   ✍️ &nbsp;J'aimerai beaucoup devenir Développeur, mais je ne sais pas encore quelle spécialitée.\
   ✉️ &nbsp;Vous pouvez m'envoyez un mail a l'adresse: bhangabin@gmail.com.
   
+<img align="right" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=Bgstatic&repo=Bgstatic&countColorcountColor&countColor=%237B1E7B"/>
 -----
 ### 🛠 &nbsp;Tech Stack
 
