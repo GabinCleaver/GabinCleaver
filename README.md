@@ -44,7 +44,7 @@
 </a>
 </p>
 
-<img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30" />### &nbsp;GitHub Trophies
+### <p align="center"><img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30" />&nbsp;Git profile Trophies</p><br>
 
 <img height="110em" src="https://github-profile-trophy.vercel.app/?username=GabinCleaver&theme=react&no-bg=true&locale=fr" />
 
