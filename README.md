@@ -28,3 +28,8 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=GabinCleaver&layout=compact&langs_count=8&theme=algolia&locale=fr"/>
 </a>
 </p>
+
+-----
+Credits: [Aditya Vikram Singh](https://github.com/GabinCleaver)
+
+Last Edited on: 06/06/2021
