@@ -34,11 +34,11 @@
 <a href="https://github.com/GabinCleaver">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=GabinCleaver&show_icons=true&theme=react&include_all_commits=true&locale=fr"/>
   <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=GabinCleaver&layout=compact&langs_count=8&theme=react&locale=fr"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=GabinCleaver&theme=juicyfresh&no-bg=true" />
 </a>
 </p>
 
-<p align="center"><img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30" />&nbsp;Git profile Trophies</p><br>
-<img src="https://github-profile-trophy.vercel.app/?username=GabinCleaver&theme=juicyfresh&no-bg=true" />
+
 
 ### 🤝🏻 &nbsp;Contacte Moi
 
