@@ -54,8 +54,6 @@
 
 <img height="130em" src="https://github-profile-trophy.vercel.app/?username=GabinCleaver&theme=react&no-bg=true&locale=fr" />
 
-<img src="https://discord.c99.nl/widget/theme-4/844585997764263937.png">
-
 ### 🤝🏻 &nbsp;Contacte Moi
 
 <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
