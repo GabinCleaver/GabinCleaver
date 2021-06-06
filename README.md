@@ -30,6 +30,7 @@
 
 ### <p align="center">📈 Et pour le futur</p>
 
+<div align="center">
 ![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=PHP&logoColor=FFA518)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
 ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
@@ -38,7 +39,8 @@
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 ![Sass](https://img.shields.io/badge/-Sass-05122A?style=flat&logo=sass)
 ![Npm](https://img.shields.io/badge/-npm-05122A?style=flat&logo=npm)
-
+</div>
+  
 -----
 ### <p align="center">⚙️ &nbsp;GitHub Analytics</p>
 
