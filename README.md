@@ -35,6 +35,8 @@
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
+![Sass](https://img.shields.io/badge/-Sass-05122A?style=flat&logo=sass)
+![Npm](https://img.shields.io/badge/-npm-05122A?style=flat&logo=npm)
 
 -----
 ### <p align="center">⚙️ &nbsp;GitHub Analytics</p>
