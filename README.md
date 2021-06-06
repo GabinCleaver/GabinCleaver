@@ -1,5 +1,6 @@
 <h2>Hello World! Je suis MrGabin !</h2>
 
+-----
 ### 👨🏻‍💻 &nbsp;About Me
 
   💡 &nbsp;J'aime beaucoup l'informatique et tout ce qui est trafiquer du code, et le rendre meilleur.\
@@ -7,7 +8,8 @@
   🌱 &nbsp;Je code tous les jours et je m'améliore chaque jour qui passe.\
   ✍️ &nbsp;J'aimerai beaucoup devenir Développeur, mais je ne sais pas encore quelle spécialitée.\
   ✉️ &nbsp;Vous pouvez m'envoyez un mail a l'adresse: bhangabin@gmail.com.
-
+  
+-----
 ### 🛠 &nbsp;Tech Stack
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
@@ -20,6 +22,7 @@
 ![Illustrator](https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=adobe-illustrator)&nbsp;
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
 
+-----
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
