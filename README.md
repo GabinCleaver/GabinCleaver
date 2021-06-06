@@ -32,7 +32,7 @@
 </a>
 </p>
 
-### 🤝🏻 &nbsp;Connect Moi
+### 🤝🏻 &nbsp;Contacte Moi
 
 -----
 Credits: [Gabin HelloWorld](https://github.com/GabinCleaver)
