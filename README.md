@@ -6,7 +6,7 @@
   🎓 &nbsp;Je suis un développeur confirmé en Python, et s'organise pour apprendre l'HTML/CSS/JS et le PHP.\
   🌱 &nbsp;Je code tous les jours et je m'améliore chaque jour qui passe.\
   ✍️ &nbsp;J'aimerai beaucoup devenir Développeur, mais je ne sais pas encore quelle spécialitée.\
-  ✉️ &nbsp;Vous pouvez m'envoyez un mail a l'adresse: bhangabin@gmail.com.\
+  ✉️ &nbsp;Vous pouvez m'envoyez un mail a l'adresse: bhangabin@gmail.com.
 
 ### 🛠 &nbsp;Tech Stack
 
