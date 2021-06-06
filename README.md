@@ -43,8 +43,8 @@
 
 <p align="center">
 <a href="https://github.com/GabinCleaver">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=GabinCleaver&show_icons=true&theme=react&include_all_commits=true&lang=fr"/>
-  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=GabinCleaver&layout=compact&langs_count=8&theme=react&lang=fr"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=GabinCleaver&show_icons=true&theme=react&include_all_commits=true&locale=fr"/>
+  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=GabinCleaver&layout=compact&langs_count=8&theme=react&locale=fr"/>
 </a>
 </p>
 
