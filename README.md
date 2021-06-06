@@ -50,7 +50,7 @@
 
 -----
 
-### <p align="center"><img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30" />&nbsp;Git profile Trophies</p>
+### <p align="center"><img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30" />&nbsp;Git Trophies</p>
 
 <img height="130em" src="https://github-profile-trophy.vercel.app/?username=GabinCleaver&theme=react&no-bg=true&locale=fr" />
 
