@@ -23,6 +23,10 @@
 ![Illustrator](https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=adobe-illustrator)&nbsp;
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
 
+### 📈 Et pour le futur
+
+
+
 -----
 ### ⚙️ &nbsp;GitHub Analytics
 
@@ -36,6 +40,7 @@
 ### 🤝🏻 &nbsp;Contacte Moi
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+<img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
 <a href="mailto:bhangabin@gmail.com"><img src="https://img.shields.io/badge/-bhangabin@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://discord.com/brand-new"><img src="https://img.shields.io/badge/Gabin%237955-D14836?style=flat&logo=Discord&logoColor=blue&color=9cf"/></a>
