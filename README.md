@@ -62,6 +62,12 @@
 <a href="mailto:bhangabin@gmail.com"><img src="https://img.shields.io/badge/-bhangabin@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://discord.com/brand-new"><img src="https://img.shields.io/badge/Gabin%237955-D14836?style=flat&logo=Discord&logoColor=blue&color=9cf"/></a>
 -----
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/Shwetang550/count.svg" />
+</p>
+
 Credits: [Gabin HelloWorld](https://github.com/GabinCleaver)
 
 Dernier Edit: 06/06/2021
