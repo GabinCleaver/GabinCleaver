@@ -1,7 +1,7 @@
 <h2>💻 Hello World! Je suis MrGabin !</h2>
 
 -----
-### 👨🏻‍💻 &nbsp;About Me
+### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;About Me
 
   💡 &nbsp;J'aime beaucoup l'informatique et tout ce qui est trafiquer du code, et le rendre meilleur.\
   🎓 &nbsp;Je suis un développeur confirmé en Python, et s'organise pour apprendre l'HTML/CSS/JS et le PHP.\
