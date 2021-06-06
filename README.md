@@ -35,8 +35,7 @@
 ### 🤝🏻 &nbsp;Contacte Moi
 
 <a href="mailto:bhangabin@gmail.com"><img src="https://img.shields.io/badge/-bhangabin@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://discord.com/brand-new"><img src="https://img.shields.io/badge/Gabin%237955&logoColor=blue"/></a>
-
+<a href="https://discord.com/brand-new"><img src="https://img.shields.io/badge/Gabin%237955-D14836?style=flat&logo=Discord&logoColor=blue"/></a>
 -----
 Credits: [Gabin HelloWorld](https://github.com/GabinCleaver)
 
