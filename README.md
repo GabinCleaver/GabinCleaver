@@ -22,8 +22,8 @@
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
 ![Illustrator](https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=adobe-illustrator)&nbsp;
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
-![Powershell](http://img.shields.io/badge/-Powershell-05122A?style=flat-square&logo=powershell)&nbsp;
-![Windows](http://img.shields.io/badge/-Windows-05122A?style=flat-square&logo=windows)&nbsp;
+![Powershell](http://img.shields.io/badge/-Powershell-05122A?style=flat&logo=powershell)&nbsp;
+![Windows](http://img.shields.io/badge/-Windows-05122A?style=flat&logo=windows)&nbsp;
 
 -----
 
