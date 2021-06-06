@@ -1,10 +1,8 @@
 ### Voici mon profil GitHub:
 
-<br/>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=gabincleaver&show_icons=true&theme=radical&locale=fr" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=gabincleaver&show_icons=true&theme=radical&locale=fr" /><br/>
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabincleaver&theme=radical&layout=compact&locale=fr" />
 </a>
-<br/>
