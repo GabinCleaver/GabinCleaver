@@ -51,9 +51,9 @@
 
 -----
 
-### <p align="center"><img height="150em" src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30" />&nbsp;Git Trophies</p>
+### <p align="center"><img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30" />&nbsp;Git Trophies</p>
 
-<img height="130em" src="https://github-profile-trophy.vercel.app/?username=gabincleaver&row=2&column=3" />
+<img height="150em" src="https://github-profile-trophy.vercel.app/?username=gabincleaver&row=2&column=3" />
 
 ### <p align="center">🤝🏻 &nbsp;Contacte Moi</p>
 
