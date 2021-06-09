@@ -53,7 +53,7 @@
 
 ### <p align="center"><img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30" />&nbsp;Git Trophies</p>
 
-<img height="150em" src="https://github-profile-trophy.vercel.app/?username=gabincleaver&row=2&column=3" />
+<img height="300em" src="https://github-profile-trophy.vercel.app/?username=gabincleaver&row=2&column=3&theme=react" />
 
 ### <p align="center">🤝🏻 &nbsp;Contacte Moi</p>
 
